@@ -1,0 +1,7 @@
+.venv
+.env
+news_articles.csv
+failed_articles.json
+article_collection_report.txt
+
+
